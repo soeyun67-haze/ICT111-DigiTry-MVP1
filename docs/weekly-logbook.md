@@ -22,9 +22,14 @@
 - Screenshot: <img width="1337" height="888" alt="image" src="https://github.com/user-attachments/assets/ddb9e108-9004-4c91-89c6-4cfcd771229e" />
 <img width="1287" height="674" alt="image" src="https://github.com/user-attachments/assets/9a54b317-e0d3-471b-8bed-7f7ccde79d41" />
 - File created: <img width="943" height="521" alt="image" src="https://github.com/user-attachments/assets/4a672727-c15c-41dd-8b15-0017aa231ad3" />  <img width="1886" height="421" alt="image" src="https://github.com/user-attachments/assets/268ffbfb-7acb-42b5-a318-18db4949c28c" />
-<img width="477" height="190" alt="image" src="https://github.com/user-attachments/assets/abcb0d3d-8d7b-4579-9e8a-004eff2cc9b4" />
+<img width="455" height="286" alt="image" src="https://github.com/user-attachments/assets/6216a6b7-0815-4ead-adb1-c89528676e26" />
+
 
 - Commit link: [https://github.com/digitry-rsu/smart-timetable/commits/main](https://github.com/Ssai-21/ICT111-DigiTry-MVP/commits/main/)
+
+### Lab 01 Mini Technical Checkpoint
+<img width="597" height="196" alt="image" src="https://github.com/user-attachments/assets/73ff73d8-bfec-4bcb-b7c7-707573f83354" />
+
 
 ### Decision Made This Week
 The team decided to pursue **SmartTimetable** as the primary IT venture — a web-based real-time timetable and room finder for Rangsit University — because it solves a daily problem experienced by all target users, is technically achievable within the semester, and gives the team direct access to real users for ongoing validation.
