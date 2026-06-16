@@ -22,6 +22,8 @@
 - Screenshot: <img width="1337" height="888" alt="image" src="https://github.com/user-attachments/assets/ddb9e108-9004-4c91-89c6-4cfcd771229e" />
 <img width="1287" height="674" alt="image" src="https://github.com/user-attachments/assets/9a54b317-e0d3-471b-8bed-7f7ccde79d41" />
 - File created: <img width="943" height="521" alt="image" src="https://github.com/user-attachments/assets/4a672727-c15c-41dd-8b15-0017aa231ad3" />  <img width="1886" height="421" alt="image" src="https://github.com/user-attachments/assets/268ffbfb-7acb-42b5-a318-18db4949c28c" />
+<img width="477" height="190" alt="image" src="https://github.com/user-attachments/assets/abcb0d3d-8d7b-4579-9e8a-004eff2cc9b4" />
+
 - Commit link: [https://github.com/digitry-rsu/smart-timetable/commits/main](https://github.com/Ssai-21/ICT111-DigiTry-MVP/commits/main/)
 
 ### Decision Made This Week
