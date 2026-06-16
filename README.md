@@ -13,14 +13,15 @@ DigiTry
 | Soe Yu Nwe | Product Lead | Define problem, target users, and value proposition |
 | Rigzang Lhmao | Documentation Lead | Maintain documentation |
 ## Initial Problem Area
-Briefly describe the general problem area your team is interested in.
+Rangsit University students and lecturers currently have no unified, real-time source for class schedules, room assignments, and last-minute changes. Schedule information is fragmented across PDF documents, LINE group chats, and verbal announcements, making it difficult for students to track room availability, detect scheduling conflicts, or receive timely updates when classes are cancelled or relocated.
 ## Target Users
-Rangsit University Students, Lecturers and Staffs.
+Rangsit University Students, Lecturers, and Staff.
 ## Initial IT Venture Direction
 SmartTimetable is a web-based scheduling platform that gives Rangsit University students a personalized, real-time view of their weekly class schedule with instant LINE Notify alerts. Lecturers and staff can manage timetable entries and broadcast updates through a simple admin dashboard, replacing the current reliance on static PDFs and informal group chats.
 ## Technology Possibility
 Possible technologies:
 - Web application
+- Mobile application
 ## Repository Structure
 - docs: reports, profiles, idea logs, and weekly logbooks
 - prototype: source code or clickable prototype files
@@ -34,6 +35,6 @@ Possible technologies:
 |---|---|---|---|
 | Lab 1 | Lab setup and idea log | Repository, team profile, initial idea log | In progress |
 ## Current Status
-In Lab 1, the DigiTry team formed and agreed on team roles, with each member taking responsibility for a defined area of the project. The team identified the core problem of fragmented and outdated schedule information at Rangsit University and aligned on SmartTimetable as the venture direction. A GitHub repository was initialized with the standard folder structure including docs, prototype, data, finance, diagrams, screenshots, and pitch directories. An initial idea log was drafted outlining the problem statement, target users, and proposed solution direction. The team also began discussing potential technologies, shortlisting a web application with a real-time dashboard and LINE Notify integration as the primary approach.
+In Lab 1, the DigiTry team formed and agreed on team roles, with each member taking responsibility for a defined area of the project. The team identified the core problem of fragmented and outdated schedule information at Rangsit University and aligned on SmartTimetable as the venture direction. A GitHub repository was initialized with the standard folder structure, including docs, prototype, data, finance, diagrams, screenshots, and pitch directories. An initial idea log was drafted outlining the problem statement, target users, and proposed solution direction. The team also began discussing potential technologies, shortlisting a web application with a real-time dashboard and LINE Notify integration as the primary approach.
 ## Next Step
-Write what the team will do in Lab 2.
+In Lab 2, the team will conduct a short user survey targeting Rangsit University students and lecturers to validate the identified problem and gather data on how they currently manage schedules and receive updates. The Product Lead will draft a value proposition canvas, the Technical Lead will research the LINE Notify API and assess database options, and the Documentation Lead will update the idea log with survey findings and begin the Lab 2 logbook entry.
